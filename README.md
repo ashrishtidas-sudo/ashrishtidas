@@ -1,7 +1,7 @@
 # ashrishtidas
 
 
-# Hi, I'm Arya Das! 👋
+# Hi, I'm Arya Das! 
 
 ### High School Sophomore | Aspiring Computer Scientist
 
@@ -9,25 +9,25 @@ I'm a student interested in computer science, technology, and the intersection o
 
 I'm currently exploring programming, building projects, and developing my technical skills.
 
-## 💻 Currently Learning
+##  Currently Learning
 - Python
 - JavaScript
 - Git and GitHub
 - Software Development
 
-## 🔍 Areas of Interest
+##  Areas of Interest
 - Artificial Intelligence & Machine Learning
 - Software Development
 - Data Science
 - Legal Technology (LegalTech)
 
-## 🚀 Goals
+##  Goals
 - Build projects that solve real-world problems.
 - Contribute to open-source projects.
 - Participate in hackathons and coding competitions.
 - Continue developing my programming skills.
 
-## 🌱 A Little About Me
+##  A Little About Me
 - 🎓 High school sophomore
 - 💡 Interested in technology and innovation
 - 📚 Always learning and exploring new ideas
